@@ -1,2 +1,3 @@
 # hello-world
-just badassness
+badassery:
+Girl seeks meaning of life, and FI.
