@@ -1,3 +1,3 @@
 # hello-world
 badassery:
-Girl seeks meaning of life; F.I.
+Girl seeks meaning of life; FI
